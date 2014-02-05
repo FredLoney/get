@@ -1,0 +1,10 @@
+{
+  "name": "xtk",
+  "version": "11.0.0-edge",
+  "main": [
+    "./xtk_edge.js",
+    "./xtk_xdat_gui.js"
+  ],
+  "dependencies": {
+  }
+}
